@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `FIT NOTE README`,
   },
 }
